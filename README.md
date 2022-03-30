@@ -1,3 +1,5 @@
 # AmazingNumbers
 
-Learning prjoct from hyperskill.org
+Learning project from hyperskill.org
+
+
